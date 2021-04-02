@@ -1,0 +1,43 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(8, 8, 209);
+    padding: 10px;
+    margin: 30px;
+}
+
+h1 {
+    background-color: gold;
+    padding: 6px;
+    margin: 2px;
+}
+
+h2 {
+    padding: 6px;
+    margin: 2px;
+}
+
+form {
+    padding: 6px;
+    margin: 2px;
+}
+
+.name {
+    padding: 4px;
+    margin: 4px;
+}
+
+.nationality {
+    padding: 4px;
+    margin: 4px;
+}
+
+.sport {
+    padding: 4px;
+    margin: 4px;
+}
+
+.log {
+    padding: 4px;
+    margin: 4px;
+    width: 100px;
+}
