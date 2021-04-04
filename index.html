@@ -26,9 +26,17 @@
             <option class="sport" value="Golf">Golf</option>
             <option class="sport" value="Boxing">Boxing</option>
         </select>
+
+        <label class="status" for="status">Status: </label>
+        <input name="status" type="radio" id="active" value="Active" checked>
+        <label for="Active">Active</label>
+        <input name="status" type="radio" id="retired" value="Retired">
+        <label for="Retired">Retired</label>
+
         <input class="log" type="submit" value="Log">
     </form>
+    <button class="delete" id="delete-all">Delete All</button>
     <hr>
-    <section id="place"></section>
+    <section id="list"></section>
 </body>
 </html>

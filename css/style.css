@@ -40,4 +40,34 @@ form {
     padding: 4px;
     margin: 4px;
     width: 100px;
+    color: green;
 }
+
+.delete {
+    padding: 4px;
+    margin: 4px;
+    width: 100px;
+    color: red;
+}
+
+.list-item {
+    margin: 4px 4px;
+    padding: 4px 4px;
+    border: 1px solid rgb(8, 8, 209);
+    background: #e7edf5;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+.nameList {
+    color: black;
+    text-transform: uppercase;
+    padding: 4px;
+    margin: 10px;
+}
+
+.detailList {
+    color:blue;
+    padding: 4px;
+    margin: 10px;
+}  
